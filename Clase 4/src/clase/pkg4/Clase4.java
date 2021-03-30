@@ -98,6 +98,8 @@ public class Clase4 {
         System.out.println(Arrays.asList(miPrimerArrayList));
         miPrimerArrayList.remove(2);
          System.out.println(Arrays.asList(miPrimerArrayList));
+         
+         //Tarea: Hacer un CRUD con ArrayList
     }
     
 }
